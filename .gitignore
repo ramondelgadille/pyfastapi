@@ -1,9 +1,1 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-env/
-model/*.joblib
-data/*.tmp
-.vscode/
-.idea/
+
