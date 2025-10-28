@@ -5,7 +5,7 @@ import os
 from joblib import load
 import sklearn
 
-MODEL_PATH = os.getenv("MODEL_PATH", "models/model.joblib")
+MODEL_PATH = os.getenv("MODEL_PATH", "model_desequilibrio.joblib")
 app = FastAPI()
 
 @lru_cache(maxsize=1)
