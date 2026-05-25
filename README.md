@@ -21,8 +21,8 @@ The model receives exactly **4 normalized float values** (between 0 and 1), in t
 | # | Variable | Description |
 |---|----------|-------------|
 | 1 | `estado_n` | Perceived general state |
-| 2 | `calidad_n` | Quality of life or sleep |
-| 3 | `deficit_n` | Perceived deficit or lack |
+| 2 | `calidad_n` | Quality of sleep |
+| 3 | `deficit_n` | Perceived sleep deficit |
 | 4 | `malestares_n` | Level of physical or emotional discomfort |
 
 These variables correspond to the **weighted stress indicators** studied in the Monstera theoretical model.
